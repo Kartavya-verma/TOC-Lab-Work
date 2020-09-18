@@ -1,4 +1,4 @@
-s = input()
+s = input("Enter String:")
 
 if len(s) % 2 != 0:
     print("Invalid")
